@@ -1,0 +1,73 @@
+*{
+    box-sizing: border-box;
+    margin: 0px;
+    padding: 0px;
+}
+
+header{
+    background-color: black;
+    color: white;
+    padding: 10px 0 0;
+}
+
+body{
+    text-align: center;
+    background-color: gray;
+}
+
+h1{
+    font-size: 66px;
+    color: yellowgreen;
+}
+
+h2, h3{
+    max-width: 500px;
+    margin: 15px auto;
+}
+
+li{
+    display: inline;
+    margin: 0 5px;
+}
+
+ul{
+    background: rgba(200,230,255,0.5);
+    padding: 10px;
+}
+
+a{
+    color: greenyellow;
+    margin: 10px;
+}
+
+img{
+    margin: 10px;
+    border: 20px greenyellow;
+    border-radius: 10px;
+}
+
+table{
+    padding: 10px;
+    margin: 15px auto;
+    border: 10px solid hotpink;    
+}
+
+th, td{
+    padding: 5px;
+    margin: 2px;
+    border: 4px dashed rgb(35, 90, 192);
+    
+}
+
+p{
+    margin: 10px auto;
+    max-width: 500px;
+}
+
+button{
+    margin-bottom: 15px;
+}
+
+form{
+    margin-top: 80px;
+}
